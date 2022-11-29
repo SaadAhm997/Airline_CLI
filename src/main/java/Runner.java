@@ -96,14 +96,13 @@ public class Runner {
         unbookedPassengers.add(passenger);
         System.out.println("Unbooked passengers: " + unbookedPassengers);
 
-        System.out.println("Enter your id: ");
-        Scanner scanner = new Scanner(System.in);
-        int bookedID = scanner.nextInt();
-        Integer bookedPassenger = new bookedID);
-        if (unbookedPassengers.contains(bookedID)) {
-            bookedPassengers.add(bookedID);
+//        System.out.println("Enter your id: ");
+//        Scanner scanner = new Scanner(System.in);
+//        int bookedID = scanner.nextInt();
+//        Integer bookedPassenger = new bookedID);
+//        if (unbookedPassengers.contains(bookedID)) {
+//            bookedPassengers.add(bookedID);
         }
-    }
 
     // unbookedPassengers.contains(bookedID)
 

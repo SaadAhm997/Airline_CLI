@@ -43,7 +43,6 @@ public class Flight {
 
     @Override
     public String toString() {
-        return "Destination:" + destination + "\'" +
-                ", Flight ID: " + id;
+        return "Destination: " + destination + ", Flight ID: " + id;
     }
 }
